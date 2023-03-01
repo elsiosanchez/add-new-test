@@ -23,7 +23,7 @@ git clone https://github.com/elsiosanchez/add-new-test.git
 
 export default defineNuxtConfig({
     modules: [
-    '~/modules/pages/index', // --> Register new module
+    '~/modules/add-new-test/index', // --> Register new module
     '@element-plus/nuxt',
     '@nuxt/ui',
     ]
