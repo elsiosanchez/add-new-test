@@ -1,2 +1,2 @@
-# add-new-test
-Remplazara la ventana la ruta o el componente que tenga el mismo nombre
+# Add new Page
+Agregar una nueva ventana o ruta por medio de un modulo 
